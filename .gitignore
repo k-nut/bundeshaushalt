@@ -1,2 +1,7 @@
 functions.json
 node_modules/
+/hh_2017_utf8.csv
+/gruppen.json
+/haushalt-enriched.csv
+/functions-keyed.json
+/gruppen-keyed.json
